@@ -278,7 +278,7 @@ footer>div.wrapper {
     }
 }
 
-@media (min-width: 1920px) {
+@media (min-width: 1920px) and (min-height: 1288px) {
 
     /* header */
     .wrapper {
